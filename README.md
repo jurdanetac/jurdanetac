@@ -1,6 +1,6 @@
 ### Hi there, this is Juan 👋
 
-- 🇻🇪 I´m a 21 years old Computer Engineering undergraduate student from Venezuela @ [URBE](https://www.urbe.edu/)
+- 🇻🇪 I´m a 21 years old Informatics Engineering undergraduate student from Venezuela @ [URBE](https://www.urbe.edu/)
 - 🔭 I’m currently working on [an Enigma Machine simulator](https://github.com/jurdanetac/enigma)
 - 🌱 I’m currently learning about databases
 - 👯 I’m looking to collaborate on open source projects!
