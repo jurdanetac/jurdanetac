@@ -1,8 +1,8 @@
 ### Hi there, this is Juan 👋
 
 - 🇻🇪 I´m a 21 years old Informatics Engineering undergraduate student from Venezuela @ [URBE](https://www.urbe.edu/)
-- 🔭 I’m currently working on [an Enigma Machine simulator](https://github.com/jurdanetac/enigma)
-- 🌱 I’m currently learning about databases
+- 🔭 I’m currently working on [Full stack open](https://fullstackopen.com/en/)
+- 🌱 I’m currently learning about web development
 - 👯 I’m looking to collaborate on open source projects!
 - 💬 Ask me about GNU/Linux!
 - 📫 [Reach me](mailto:jurdanetac10@gmail.com?subject=Contact%20from%20GitHub&body=Hello%20Juan!)
